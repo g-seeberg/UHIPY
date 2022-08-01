@@ -1,6 +1,6 @@
 Documentation
 
-This code was used for the paper "Evaluating the potential of Landsat satellite data to monitor the effectiveness of measures to mitigate urban heat islands: A case study for Stuttgart (Germany)" published in Urban Science. \n
+This code was used for the paper "Evaluating the potential of Landsat satellite data to monitor the effectiveness of measures to mitigate urban heat islands: A case study for Stuttgart (Germany)" published in Urban Science. /n
 RED, NIR, TIR and cloudmask(QA) bands from Landsat collection 2 must be available.
 Workingdirectory (wd) must be the same for all scripts.
 modules necessary: arcpy (with arcgis pro), os and numpy.

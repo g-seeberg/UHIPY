@@ -6,7 +6,7 @@ RED, NIR, TIR and cloudmask(QA) bands from Landsat collection 2 must be availabl
 Workingdirectory (wd) must be the same for all scripts.  
 modules necessary: arcpy (with arcgis pro), os and numpy.  
 Scripts must be executed in the given order.  
-All scripts may need modification for the analysed area and other specifications.  
+All scripts may need modification for the specific area of interest and other specifications.  
 
 cloudmask.py:  
 -takes the cloudmask(QA) band and calculates a mask with all clouds from all selected scenes  
